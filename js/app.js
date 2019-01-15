@@ -49,7 +49,6 @@ Player.prototype.update = function(dt) {
       alert("请重新开始");
     }
   }
-
 };
 
 Player.prototype.render = function() {
